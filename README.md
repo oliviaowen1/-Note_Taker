@@ -16,6 +16,7 @@ This application has been deployed using Heroku, meaning the user only has to op
 
 # Installation 
 
+You can used the deployed application [here](https://note-taker-olivia-owen.herokuapp.com/)
 
 When the user opens the webpage, they will be presented with the homescreen. To start the application they will need to press "Get Started"
 ![Screenshot of home page](https://raw.githubusercontent.com/oliviaowen1/Note_Taker/main/Assets/Screenshot%202021-03-07%20at%2021.44.11.png)
@@ -41,9 +42,6 @@ By clicking the red bin icon, this will then delete the note:
 The user can continue to add as many notes as they would like.
 
 Please see a video of the working application [here](https://drive.google.com/file/d/1mSfGQyWpiqd2fk5P0I1RC1afC90ck3Sj/view)
-
-
-You can used the deployed application [here](https://note-taker-olivia-owen.herokuapp.com/)
 
 
 
